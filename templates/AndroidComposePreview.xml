@@ -1,0 +1,10 @@
+<templateSet group="AndroidComposePreview">
+  <template name="sp" value="@androidx.compose.ui.tooling.preview.Preview(&#10;        name = &quot;$NAME$ScreenPreview&quot;,&#10;        showSystemUi = true,&#10;        showBackground = true,&#10;        uiMode = Configuration.UI_MODE_NIGHT_NO or Configuration.UI_MODE_TYPE_NORMAL&#10;    )&#10;@androidx.compose.runtime.Composable&#10;fun $NAME$ScreenPreview() {&#10;$END$&#10;}&#10;" description="Screen Preview" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+      <option name="KOTLIN_CLASS" value="false" />
+      <option name="KOTLIN_COMMENT" value="false" />
+    </context>
+  </template>
+</templateSet>

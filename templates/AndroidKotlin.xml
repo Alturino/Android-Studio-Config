@@ -1,0 +1,174 @@
+<templateSet group="AndroidKotlin">
+  <template name="vms" value="androidx.lifecycle.viewModelScope.launch {&#10;    &#10;}" description="viewModelScope" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
+  <template name="vm" value="class $class_name$ViewModel : androidx.lifecycle.ViewModel() {&#10;    $end$&#10;}" description="ViewModel" toReformat="true" toShortenFQNames="true">
+    <variable name="class_name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
+  <template name="vm1" value="class $class_name$ViewModel(&#10;    private val $variable1$: $type_variable1$&#10;) : androidx.lifecycle.ViewModel() {&#10;    $end$&#10;}" description="ViewModel1" toReformat="true" toShortenFQNames="true">
+    <variable name="class_name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="variable1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="type_variable1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
+  <template name="vm2" value="class $class_name$ViewModel(&#10;    private val $variable1$: $type_variable1$,&#10;    private val $variable2$: $type_variable2$,&#10;) : androidx.lifecycle.ViewModel() {&#10;    $end$&#10;}" description="ViewModel2" toReformat="false" toShortenFQNames="true">
+    <variable name="class_name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="variable1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="type_variable1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="variable2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="type_variable2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
+  <template name="vm3" value="class $class_name$ViewModel(&#10;    private val $variable1$: $type_variable1$,&#10;    private val $variable2$: $type_variable2$,&#10;    private val $variable3$: $type_variable3$,&#10;) : androidx.lifecycle.ViewModel() {&#10;    $end$&#10;}" description="ViewModel3" toReformat="false" toShortenFQNames="true">
+    <variable name="class_name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="variable1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="type_variable1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="variable2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="type_variable2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="variable3" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="type_variable3" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
+  <template name="hvm3" value="@dagger.hilt.android.lifecycle.HiltViewModel&#10;class $class_name$ViewModel @javax.inject.Inject constructor(&#10;    private val $variable1$: $type_variable1$,&#10;    private val $variable2$: $type_variable2$,&#10;    private val $variable3$: $type_variable3$,&#10;) : androidx.lifecycle.ViewModel() {&#10;    $end$&#10;}" description="HiltViewModel3" toReformat="true" toShortenFQNames="true">
+    <variable name="class_name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="variable1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="type_variable1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="variable2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="type_variable2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="variable3" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="type_variable3" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
+  <template name="hvm2" value="@dagger.hilt.android.lifecycle.HiltViewModel&#10;class $class_name$ViewModel @javax.inject.Inject constructor(&#10;    private val $variable1$: $type_variable1$,&#10;    private val $variable2$: $type_variable2$,&#10;) : androidx.lifecycle.ViewModel() {&#10;    $end$&#10;}" description="HiltViewModel3" toReformat="true" toShortenFQNames="true">
+    <variable name="class_name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="variable1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="type_variable1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="variable2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="type_variable2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
+  <template name="hvm1" value="@dagger.hilt.android.lifecycle.HiltViewModel&#10;class $class_name$ViewModel @javax.inject.Inject constructor(&#10;    private val $variable1$: $type_variable1$,&#10;) : androidx.lifecycle.ViewModel() {&#10;    $end$&#10;}" description="HiltViewModel1" toReformat="true" toShortenFQNames="true">
+    <variable name="class_name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="variable1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="type_variable1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
+  <template name="list adapter" value="class $filename$ : androidx.recyclerview.widget.ListAdapter&lt;$type$, $filename$.$viewholder$ViewHolder&gt;(DiffCallback()) {&#10;&#10;    override fun onCreateViewHolder(parent: android.view.ViewGroup, viewType: Int): $viewholder$ViewHolder {&#10;        val binding = $binding$.inflate(&#10;            android.view.LayoutInflater.from(parent.context),&#10;            parent,&#10;            false&#10;        )&#10;        return $viewholder$ViewHolder(binding)&#10;    }&#10;&#10;    override fun onBindViewHolder(holder: $viewholder$ViewHolder, position: Int) {&#10;        val currentItem = getItem(position)&#10;        holder.bind(currentItem)&#10;    }&#10;&#10;    inner class $viewholder$ViewHolder(private val binding: $binding$) : androidx.recyclerview.widget.RecyclerView.ViewHolder(binding.root) {&#10;        fun bind(item: $type$){&#10;            &#10;        }&#10;    }&#10;&#10;    class DiffCallback : androidx.recyclerview.widget.DiffUtil.ItemCallback&lt;$type$&gt;() {&#10;        override fun areItemsTheSame(oldItem: $type$, newItem: $type$) =&#10;            oldItem.id == newItem.id&#10;&#10;        override fun areContentsTheSame(oldItem: $type$, newItem: $type$) =&#10;            oldItem == newItem&#10;    }&#10;}" description="List Adapter" toReformat="false" toShortenFQNames="true">
+    <variable name="filename" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="viewholder" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="binding" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
+  <template name="rv adapter" value="class $filename$(private val items: List&lt;$type$&gt; = listOf()) : androidx.recyclerview.widget.RecyclerView.Adapter&lt;$filename$.$viewholder$ViewHolder&gt;() {&#10;&#10;    inner class $viewholder$ViewHolder(private val binding: $binding$) : androidx.recyclerview.widget.RecyclerView.ViewHolder(binding.root) {&#10;        fun bind(item: $type$){&#10;            &#10;        }&#10;    }&#10;&#10;    override fun onCreateViewHolder(parent: android.view.ViewGroup, viewType: Int): MyViewHolder {&#10;        val binding = $binding$.inflate(&#10;            android.view.LayoutInflater.from(parent.context),&#10;            parent,&#10;            false&#10;        )&#10;        return $viewholder$ViewHolder(binding)&#10;    }&#10;&#10;    override fun getItemCount(): Int = items.size&#10;&#10;    override fun onBindViewHolder(holder: MyViewHolder, position: Int) {&#10;        val currentItem = getItem(position)&#10;    }&#10;}" description="RecyclerView Adapter" toReformat="true" toShortenFQNames="true">
+    <variable name="filename" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="viewholder" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="binding" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
+  <template name="dinetworkmodulemoshi" value="@dagger.Module&#10;@dagger.hilt.InstallIn(dagger.hilt.components.SingletonComponent::class)&#10;object $filename$ {&#10;&#10;    @javax.inject.Singleton&#10;    @dagger.Provides&#10;    fun provideHttpClient(): okhttp3.OkHttpClient {&#10;&#10;        val interceptor = okhttp3.Interceptor {&#10;            val request = it.request()&#10;                .newBuilder()&#10;                .addHeader(&quot;Authorization&quot;, &quot;Bearer $\$api_token$&quot;)&#10;                .build()&#10;            it.proceed(request)&#10;        }&#10;&#10;        val loggingInterceptor = okhttp3.logging.HttpLoggingInterceptor().apply {&#10;            level = HttpLoggingInterceptor.Level.BODY&#10;        }&#10;&#10;        return okhttp3.OkHttpClient.Builder()&#10;            .addInterceptor(interceptor)&#10;            .addInterceptor(loggingInterceptor)&#10;            .certificatePinner(certificatePinner)&#10;            .connectTimeout(120, TimeUnit.SECONDS)&#10;            .readTimeout(120, TimeUnit.SECONDS)&#10;            .build()&#10;    }&#10;    &#10;    @javax.inject.Singleton&#10;    @dagger.Provides&#10;    fun provideMoshi(): com.squareup.moshi.Moshi = com.squareup.moshi.Moshi.Builder()&#10;        .add(com.squareup.moshi.kotlin.reflect.KotlinJsonAdapterFactory())&#10;        .build()&#10;&#10;    @javax.inject.Singleton&#10;    @dagger.Provides&#10;    fun provideRetrofitInstance(okHttpClient: okhttp3.OkHttpClient, moshi: com.squareup.moshi.Moshi): retrofit2.Retrofit = retrofit2.Retrofit.Builder()&#10;        .addConverterFactory(retrofit2.converter.moshi.MoshiConverterFactory.create(moshi))&#10;        .baseUrl(BASE_URL)&#10;        .client(okHttpClient)&#10;        .build()&#10;}" description="Network Module" toReformat="true" toShortenFQNames="true">
+    <variable name="filename" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="api_token" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
+  <template name="dinetworkmodulekotlinx" value="@dagger.Module&#10;@dagger.hilt.InstallIn(dagger.hilt.components.SingletonComponent::class)&#10;object $filename$ {&#10;&#10;    @javax.inject.Singleton&#10;    @dagger.Provides&#10;    fun provideHttpClient(): okhttp3.OkHttpClient {&#10;        val interceptor = okhttp3.Interceptor {&#10;            val request = it.request()&#10;                .newBuilder()&#10;                .addHeader(&quot;Authorization&quot;, &quot;Bearer $\$api_token$&quot;)&#10;                .build()&#10;            it.proceed(request)&#10;        }&#10;&#10;        val loggingInterceptor = okhttp3.logging.HttpLoggingInterceptor().apply {&#10;            level = HttpLoggingInterceptor.Level.BODY&#10;        }&#10;&#10;        return okhttp3.OkHttpClient.Builder()&#10;            .addInterceptor(interceptor)&#10;            .addInterceptor(loggingInterceptor)&#10;            .certificatePinner(certificatePinner)&#10;            .connectTimeout(120, TimeUnit.SECONDS)&#10;            .readTimeout(120, TimeUnit.SECONDS)&#10;            .build()&#10;    }&#10;    &#10;    @javax.inject.Singleton&#10;    @dagger.Provides&#10;    fun provideKotlinSerialization(): Converter.Factory {&#10;        val json = Json {&#10;            ignoreUnknownKeys = true&#10;            isLenient = true&#10;        }&#10;        return json.asConverterFactory(&quot;application/json&quot;.toMediaType())&#10;    }&#10;&#10;    @javax.inject.Singleton&#10;    @dagger.Provides&#10;    fun provideRetrofitInstance(okHttpClient: okhttp3.OkHttpClient, serialization: Converter.Factory): retrofit2.Retrofit = retrofit2.Retrofit.Builder()&#10;        .addConverterFactory(serialization)&#10;        .baseUrl(&quot;$base_url$&quot;)&#10;        .client(okHttpClient)&#10;        .build()&#10;}" description="Network Module kotlinx" toReformat="true" toShortenFQNames="true">
+    <variable name="filename" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="api_token" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="base_url" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
+  <template name="diretrofit" value="    @javax.inject.Singleton&#10;    @dagger.Provides&#10;    fun provideRetrofitInstance(okHttpClient: okhttp3.OkHttpClient, $serialization$: $serialization_type$): retrofit2.Retrofit = retrofit2.Retrofit.Builder()&#10;        .addConverterFactory($serialization$)&#10;        .baseUrl(&quot;$base_url$&quot;)&#10;        .client(okHttpClient)&#10;        .build()" description="Provide Retrofit" toReformat="true" toShortenFQNames="true">
+    <variable name="serialization" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="serialization_type" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="base_url" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
+  <template name="dihttpclient" value="    @javax.inject.Singleton&#10;    @dagger.Provides&#10;    fun provideHttpClient(): okhttp3.OkHttpClient {&#10;&#10;        val interceptor = okhttp3.Interceptor {&#10;            val request = it.request()&#10;                .newBuilder()&#10;                .addHeader(&quot;Authorization&quot;, &quot;Bearer $\$api_token$&quot;)&#10;                .build()&#10;            it.proceed(request)&#10;        }&#10;&#10;        val loggingInterceptor = okhttp3.logging.HttpLoggingInterceptor().apply {&#10;            level = HttpLoggingInterceptor.Level.BODY&#10;        }&#10;&#10;        return okhttp3.OkHttpClient.Builder()&#10;            .addInterceptor(interceptor)&#10;            .addInterceptor(loggingInterceptor)&#10;            .certificatePinner(certificatePinner)&#10;            .connectTimeout(120, TimeUnit.SECONDS)&#10;            .readTimeout(120, TimeUnit.SECONDS)&#10;            .build()&#10;    }&#10;" description="Provide OkHttpClient" toReformat="true" toShortenFQNames="true">
+    <variable name="api_token" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
+  <template name="dimoshi" value="    @javax.inject.Singleton&#10;    @dagger.Provides&#10;    fun provideMoshi(): com.squareup.moshi.Moshi = com.squareup.moshi.Moshi.Builder()&#10;        .add(com.squareup.moshi.kotlin.reflect.KotlinJsonAdapterFactory())&#10;        .build()" description="Provide Moshi" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
+  <template name="dilocalmodule" value="@dagger.Module&#10;@dagger.hilt.InstallIn(dagger.hilt.components.SingletonComponent::class)&#10;object $filename$ {&#10;&#10;    @javax.inject.Singleton&#10;    @dagger.Provides&#10;    fun provideDatabase(@dagger.hilt.android.qualifiers.ApplicationContext context: android.content.Context): $database_type$ {&#10;        return Room.databaseBuilder(&#10;            context,&#10;            $database_type$::class.java,&#10;            &quot;$database_name$&quot;&#10;        ).fallbackToDestructiveMigration()&#10;            .allowMainThreadQueries()&#10;            .build()&#10;    }&#10;&#10;    @javax.inject.Singleton&#10;    @dagger.Provides&#10;    fun provideDao(db: $database_type$): $dao_type$ = db.$method_dao$&#10;}" description="Local Module" toReformat="true" toShortenFQNames="true">
+    <variable name="filename" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="database_type" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="database_name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="dao_type" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="method_dao" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
+  <template name="diroom" value="    @javax.inject.Singleton&#10;    @dagger.Provides&#10;    fun provide$database_type$(@dagger.hilt.android.qualifiers.ApplicationContext context: android.content.Context): $database_type$ {&#10;        return Room.databaseBuilder(&#10;            context,&#10;            $database_type$::class.java,&#10;            &quot;$database_name$&quot;&#10;        ).fallbackToDestructiveMigration()&#10;            .allowMainThreadQueries()&#10;            .build()&#10;    }" description="Provide Room" toReformat="true" toShortenFQNames="true">
+    <variable name="database_type" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="database_name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
+  <template name="didao" value="    @javax.inject.Singleton&#10;    @dagger.Provides&#10;    fun provide$dao_type$(db: $database_type$): $dao_type$ = db.$method_dao$" description="Provide Dao" toReformat="true" toShortenFQNames="true">
+    <variable name="database_type" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="dao_type" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="method_dao" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
+  <template name="roomdb" value="@androidx.room.Database(&#10;    entities = [$table_name$::class],&#10;    version = 1,&#10;    exportSchema = false&#10;)&#10;abstract class $class_name$Database : androidx.room.RoomDatabase() {&#10;    abstract val $dao_name$: $dao_type$&#10;}" description="Room Database" toReformat="true" toShortenFQNames="true">
+    <variable name="table_name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="class_name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="dao_name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="dao_type" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
+  <template name="roomdao" value="@androidx.room.Dao&#10;interface $dao_name$ {&#10;&#10;    @androidx.room.Insert(onConflict = androidx.room.OnConflictStrategy.REPLACE)&#10;    suspend fun insert$entity_type$($param_entity_name$: $entity_type$)&#10;    &#10;    @androidx.room.Insert(onConflict = androidx.room.OnConflictStrategy.REPLACE)&#10;    suspend fun insertAll$entity_type$(vararg $param_entity_name$s: $entity_type$)&#10;&#10;    @androidx.room.Update&#10;    suspend fun update($param_entity_name$: $entity_type$)&#10;&#10;    @androidx.room.Delete&#10;    suspend fun delete($param_entity_name$: $entity_type$)&#10;&#10;    @androidx.room.Query(&quot;SELECT * FROM $param_entity_name$&quot;)&#10;    fun getAll$entity_type$(): List&lt;$entity_type$&gt;&#10;}" description="Room Dao" toReformat="false" toShortenFQNames="true">
+    <variable name="dao_name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="entity_type" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="param_entity_name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
+</templateSet>
