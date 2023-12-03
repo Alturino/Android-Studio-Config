@@ -5,9 +5,12 @@
         <option value="package:com.onirutla.flex_chat  -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.onirutla.newsapp -tag:gralloc4 -tag:fileutils -tag:libperfctl -tag:framepolicy -tag:choreographer -tag:libMEOW tag:homescreenviewmodel" />
+    <option name="mostRecentlyUsed" value="package:com.onirutla.newsapp -tag:gralloc4 -tag:fileutils -tag:libmeow -tag:libmigl -tag:skia -tag: libjpeg-alpha -tag:libperfctl  -tag:framepolicy " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.onirutla.newsapp -tag:gralloc4 -tag:fileutils -tag:libmeow -tag:libmigl -tag:skia -tag: libjpeg-alpha -tag:libperfctl  -tag:framepolicy " />
+        <option value="package:com.onirutla.newsapp -tag:gralloc4 -tag:fileutils -tag:libmeow -tag:libmigl -tag:skia -tag: libjpeg-alpha " />
+        <option value="package:com.onirutla.newsapp -tag:gralloc4 -tag:fileutils -tag:libmeow -tag:libmigl " />
         <option value="package:com.onirutla.newsapp -tag:gralloc4 -tag:fileutils -tag:libperfctl -tag:framepolicy -tag:choreographer -tag:libMEOW tag:homescreenviewmodel" />
         <option value="package:com.onirutla.newsapp -tag:gralloc4 -tag:fileutils -tag:libperfctl -tag:framepolicy -tag:choreographer -tag:libMEOW tag:home" />
         <option value="package:com.onirutla.newsapp -tag:gralloc4 -tag:fileutils -tag:libperfctl -tag:framepolicy -tag:choreographer -tag:libMEOW" />
@@ -25,9 +28,6 @@
         <option value="package:com.onirutla.newsapp -tag:gralloc4 -level:level:error " />
         <option value="package:com.onirutla.newsapp -tag:gralloc4 " />
         <option value="package:com.onirutla.newsapp -tag:gralloc4 -tag:libMEOW -tag:fileutils -tag:libperfctl " />
-        <option value="package:com.onirutla.newsapp -tag:gralloc4 -tag:libMEOW -tag:fileutils " />
-        <option value="package:mine -tag:gralloc4 -tag:libMEOW" />
-        <option value="package:com.onirutla.new" />
       </list>
     </option>
   </component>
