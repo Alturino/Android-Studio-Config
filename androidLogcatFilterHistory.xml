@@ -9,9 +9,9 @@
     <option name="nonFavorites">
       <list>
         <option value="package:com.onirutla.newsapp -tag:gralloc4 -tag:fileutils -tag:libperfctl -tag:framepolicy -tag:choreographer -tag:libMEOW " />
+        <option value="package:com.onirutla.newsapp" />
         <option value="package:com.onirutla.newsapp -tag:gralloc4 -tag:fileutils -tag:libperfctl -tag:framepolicy -tag:choreographer" />
         <option value="package:com.onirutla.newsapp -tag:gralloc4 -tag:fileutils -tag:libperfctl -tag:framepolicy " />
-        <option value="package:com.onirutla.newsapp" />
         <option value="package:com.onirutla.newsapp -tag:gralloc4 -tag:fileutils -tag:libperfctl " />
         <option value="package:com.onirutla.newsapp -tag:gralloc4 -tag:fileutils" />
         <option value="package:com.onirutla.newsapp -tag:gralloc4 -tag:fileutils " />
