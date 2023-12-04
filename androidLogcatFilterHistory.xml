@@ -5,8 +5,11 @@
         <option value="package:com.onirutla.flex_chat  -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL " />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:com.onirutla.newsapp -tag: gralloc4 -tag:framepolicy -tag:libperfctl " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.onirutla.newsapp -tag: gralloc4 -tag:framepolicy -tag:libperfctl " />
+        <option value="package:com.onirutla.newsapp -tag: gralloc4 " />
         <option value="package:mine " />
         <option value="package:com.sosyal.app -tag:libmeow -tag:gralloc4 -tag:fileutils -tag:libjpeg-alpha -tag:libperfctl -tag:framepolicy -tag:vri[mainactivity] " />
         <option value="package:com.sosyal.app -tag:libmeow -tag:gralloc4 -tag:fileutils -tag:libjpeg-alpha " />
@@ -25,8 +28,6 @@
         <option value="package:com.onirutla.newsapp -tag:gralloc4 -tag:fileutils -tag:libperfctl " />
         <option value="package:com.onirutla.newsapp -tag:gralloc4 -tag:fileutils" />
         <option value="package:com.onirutla.newsapp -tag:gralloc4 -tag:fileutils " />
-        <option value="package:com.onirutla.newsapp " />
-        <option value="package:com.onirutla.newsapp -tag:grall" />
       </list>
     </option>
   </component>
