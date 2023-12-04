@@ -5,9 +5,12 @@
         <option value="package:com.onirutla.flex_chat  -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.onirutla.newsapp -tag: gralloc4 -tag:framepolicy -tag:libperfctl " />
+    <option name="mostRecentlyUsed" value="package:com.onirutla.newsapp -tag: gralloc4 -tag:framepolicy -tag:libperfctl -tag:libjpeg-alpha -tag:fileutils -tag:libmeow " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.onirutla.newsapp -tag: gralloc4 -tag:framepolicy -tag:libperfctl -tag:libjpeg-alpha -tag:fileutils -tag:libmeow " />
+        <option value="package:com.onirutla.newsapp -tag: gralloc4 -tag:framepolicy -tag:libperfctl -tag:libjpeg-alpha -tag:fileutils " />
+        <option value="package:com.onirutla.newsapp -tag: gralloc4 -tag:framepolicy -tag:libperfctl -tag:libjpeg-alpha " />
         <option value="package:com.onirutla.newsapp -tag: gralloc4 -tag:framepolicy -tag:libperfctl " />
         <option value="package:com.onirutla.newsapp -tag: gralloc4 " />
         <option value="package:mine " />
@@ -25,9 +28,6 @@
         <option value="package:com.onirutla.newsapp" />
         <option value="package:com.onirutla.newsapp -tag:gralloc4 -tag:fileutils -tag:libperfctl -tag:framepolicy -tag:choreographer" />
         <option value="package:com.onirutla.newsapp -tag:gralloc4 -tag:fileutils -tag:libperfctl -tag:framepolicy " />
-        <option value="package:com.onirutla.newsapp -tag:gralloc4 -tag:fileutils -tag:libperfctl " />
-        <option value="package:com.onirutla.newsapp -tag:gralloc4 -tag:fileutils" />
-        <option value="package:com.onirutla.newsapp -tag:gralloc4 -tag:fileutils " />
       </list>
     </option>
   </component>
