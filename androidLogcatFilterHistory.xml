@@ -5,9 +5,13 @@
         <option value="package:com.onirutla.flex_chat  -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:com.onirutla.musicwalker -tag:gralloc4 -tag:libmeow -tag:libPerfCtl -tag:libmigl -tag:FileUtils -tag:framepolicy " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.onirutla.musicwalker -tag:gralloc4 -tag:libmeow -tag:libPerfCtl -tag:libmigl -tag:FileUtils -tag:framepolicy " />
+        <option value="package:com.onirutla.musicwalker -tag:gralloc4 -tag:libmeow -tag:libPerfCtl -tag:libmigl -tag:FileUtils " />
+        <option value="package:com.onirutla.musicwalker" />
+        <option value="package:com.onirutla.newsapp" />
         <option value="package:com.onirutla.newsapp -tag: gralloc4 -tag:framepolicy -tag:libperfctl -tag:libjpeg-alpha -tag:fileutils -tag:libmeow " />
         <option value="package:com.onirutla.newsapp -tag: gralloc4 -tag:framepolicy -tag:libperfctl -tag:libjpeg-alpha -tag:fileutils " />
         <option value="package:com.onirutla.newsapp -tag: gralloc4 -tag:framepolicy -tag:libperfctl -tag:libjpeg-alpha " />
@@ -24,10 +28,6 @@
         <option value="package:com.onirutla.newsapp -tag:gralloc4 -tag:fileutils -tag:libperfctl -tag:framepolicy -tag:choreographer -tag:libMEOW tag:homescreenviewmodel" />
         <option value="package:com.onirutla.newsapp -tag:gralloc4 -tag:fileutils -tag:libperfctl -tag:framepolicy -tag:choreographer -tag:libMEOW tag:home" />
         <option value="package:com.onirutla.newsapp -tag:gralloc4 -tag:fileutils -tag:libperfctl -tag:framepolicy -tag:choreographer -tag:libMEOW" />
-        <option value="package:com.onirutla.newsapp -tag:gralloc4 -tag:fileutils -tag:libperfctl -tag:framepolicy -tag:choreographer -tag:libMEOW " />
-        <option value="package:com.onirutla.newsapp" />
-        <option value="package:com.onirutla.newsapp -tag:gralloc4 -tag:fileutils -tag:libperfctl -tag:framepolicy -tag:choreographer" />
-        <option value="package:com.onirutla.newsapp -tag:gralloc4 -tag:fileutils -tag:libperfctl -tag:framepolicy " />
       </list>
     </option>
   </component>
