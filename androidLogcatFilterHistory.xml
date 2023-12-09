@@ -5,9 +5,12 @@
         <option value="package:mine  -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine  -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha " />
+    <option name="mostRecentlyUsed" value="package:com.onirutla.musicwalker   -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha  " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.onirutla.musicwalker   -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha  " />
+        <option value="package:com.onirutla.musicwalker   -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha tag:MusicWalkerNavigationKt  " />
+        <option value="package:com.onirutla.musicwalker   -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha " />
         <option value="package:mine  -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow " />
         <option value="package:com.onirutla.musicwalker" />
         <option value="package:mine  -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL -tag:libperfctl -tag:FramePolicy " />
@@ -25,9 +28,6 @@
         <option value="package:com.onirutla.newsapp -tag: gralloc4 -tag:framepolicy -tag:libperfctl -tag:libjpeg-alpha " />
         <option value="package:com.onirutla.newsapp -tag: gralloc4 -tag:framepolicy -tag:libperfctl " />
         <option value="package:com.onirutla.newsapp -tag: gralloc4 " />
-        <option value="package:mine " />
-        <option value="package:com.sosyal.app -tag:libmeow -tag:gralloc4 -tag:fileutils -tag:libjpeg-alpha -tag:libperfctl -tag:framepolicy -tag:vri[mainactivity] " />
-        <option value="package:com.sosyal.app -tag:libmeow -tag:gralloc4 -tag:fileutils -tag:libjpeg-alpha " />
       </list>
     </option>
   </component>
