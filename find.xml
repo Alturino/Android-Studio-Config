@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Directory '…/app/src/androidTest/java/com/onirutla/flexchat [FlexChat.app.androidTest]'" />
+    <option name="defaultScopeName" value="Directory '…/app/src/androidTest/java/com/onirutla/flexchat [FlexChat.app.androidTest]'" />
+    <option name="SEARCH_SCOPE" value="Directory '…/app/src/androidTest/java/com/onirutla/flexchat [FlexChat.app.androidTest]'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
