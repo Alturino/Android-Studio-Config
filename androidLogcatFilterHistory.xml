@@ -1,0 +1,21 @@
+<application>
+  <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:com.onirutla.flex_chat -tag:gralloc4 -tag:fileutils level:debug" />
+    <option name="nonFavorites">
+      <list>
+        <option value="package:com.onirutla.flex_chat -tag:gralloc4 -tag:fileutils level:debug" />
+        <option value="package:com.onirutla.flex_chat -tag:gralloc4 -tag:fileutils level:debug  tag:firebaseconversationrepository$observemessage$1$listener " />
+        <option value="package:com.onirutla.flex_chat -tag:gralloc4 -tag:fileutils level:debug " />
+        <option value="package:com.onirutla.flex_chat -tag:gralloc4 -tag:fileutils" />
+        <option value="package:com.onirutla.flex_chat -tag:gralloc4 -tag:fileutils level:error" />
+        <option value="package:mine -tag:gralloc4 -tag:fileutils" />
+        <option value="package:com.onirutla.flex_chat -tag:FileUtils -tag:gralloc4 level:debug " />
+        <option value="package:com.onirutla.flex_chat -tag:FileUtils -tag:gralloc4 level:error " />
+        <option value="package:com.onirutla.flex_chat -tag:FileUtils -tag:gralloc4 " />
+        <option value="package:com.onirutla.flex_chat -tag:FileUtils " />
+        <option value="package:com.onirutla.flex_chat" />
+        <option value="package:com.onirutla.flex_chat -tag:gralloc4 -tag:FileUtils -tag:libmigl " />
+      </list>
+    </option>
+  </component>
+</application>
