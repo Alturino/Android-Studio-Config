@@ -5,9 +5,10 @@
         <option value="package:mine  -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine  -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha " />
+    <option name="mostRecentlyUsed" value="package:mine  -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha tag:registerscreenviewmodel " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha tag:registerscreenviewmodel " />
         <option value="package:mine  -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha tag:ma " />
         <option value="package:com.onirutla.flexchat" />
         <option value="package:com.onirutla.flex_chat" />
@@ -27,7 +28,6 @@
         <option value="package:com.onirutla.musicwalker -tag:gralloc4 -tag:fileutils -tag:libmeow -tag:framepolicy -tag:libperfctl " />
         <option value="package:com.onirutla.musicwalker -tag:gralloc4 -tag:fileutils -tag:libmeow " />
         <option value="package:com.onirutla.musicwalker -tag:gralloc4 -tag:libmeow -tag:libPerfCtl -tag:libmigl -tag:FileUtils -tag:framepolicy -tag:forcedarkhelperstubimpl " />
-        <option value="package:com.onirutla.musicwalker -tag:gralloc4 -tag:libmeow -tag:libPerfCtl -tag:libmigl -tag:FileUtils -tag:framepolicy " />
       </list>
     </option>
   </component>
