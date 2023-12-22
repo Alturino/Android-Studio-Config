@@ -1,20 +1,33 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.onirutla.flex_chat -tag:gralloc4 -tag:fileutils level:debug" />
+    <option name="favorites">
+      <list>
+        <option value="package:mine  -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha " />
+      </list>
+    </option>
+    <option name="mostRecentlyUsed" value="package:mine  -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha " />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.onirutla.flex_chat -tag:gralloc4 -tag:fileutils level:debug" />
-        <option value="package:com.onirutla.flex_chat -tag:gralloc4 -tag:fileutils level:debug  tag:firebaseconversationrepository$observemessage$1$listener " />
-        <option value="package:com.onirutla.flex_chat -tag:gralloc4 -tag:fileutils level:debug " />
-        <option value="package:com.onirutla.flex_chat -tag:gralloc4 -tag:fileutils" />
-        <option value="package:com.onirutla.flex_chat -tag:gralloc4 -tag:fileutils level:error" />
-        <option value="package:mine -tag:gralloc4 -tag:fileutils" />
-        <option value="package:com.onirutla.flex_chat -tag:FileUtils -tag:gralloc4 level:debug " />
-        <option value="package:com.onirutla.flex_chat -tag:FileUtils -tag:gralloc4 level:error " />
-        <option value="package:com.onirutla.flex_chat -tag:FileUtils -tag:gralloc4 " />
-        <option value="package:com.onirutla.flex_chat -tag:FileUtils " />
+        <option value="package:com.example.learn_custom_view" />
+        <option value="package:mine  -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha tag:FirebaseUserRepository$currentUser " />
+        <option value="package:com.onirutla.flexchat" />
+        <option value="package:com.google.firebase.example.fireeats" />
+        <option value="package:mine  -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha tag:registerscreenviewmodel " />
+        <option value="package:mine  -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha tag:ma " />
         <option value="package:com.onirutla.flex_chat" />
-        <option value="package:com.onirutla.flex_chat -tag:gralloc4 -tag:FileUtils -tag:libmigl " />
+        <option value="package:com.onirutla.musicwalker" />
+        <option value="package:com.example.music_walker_flutter   -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha " />
+        <option value="package:com.example.music_walker_flutter " />
+        <option value="package:com.onirutla.musicwalker " />
+        <option value="package:com.onirutla.musicwalker  -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha  " />
+        <option value="package:com.onirutla.musicwalker   -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha  " />
+        <option value="package:com.onirutla.musicwalker   -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha tag:MusicWalkerNavigationKt  " />
+        <option value="package:com.onirutla.musicwalker   -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha " />
+        <option value="package:mine  -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow " />
+        <option value="package:mine  -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL -tag:libperfctl -tag:FramePolicy " />
+        <option value="package:com.onirutla.musicwalker -tag:gralloc4 -tag:fileutils -tag:libmeow -tag:libPerfCtl -tag:libmigl " />
+        <option value="package:com.onirutla.musicwalker -tag:gralloc4 -tag:fileutils -tag:libmeow -tag:framepolicy -tag:libperfctl" />
+        <option value="package:com.onirutla.musicwalker -tag:gralloc4 -tag:fileutils -tag:libmeow -tag:framepolicy -tag:libperfctl tag:service" />
       </list>
     </option>
   </component>

@@ -1,0 +1,14 @@
+<templateSet group="AndroidLogKotlin">
+  <template name="td" value="timber.log.Timber.d(&quot;$message$&quot;)" description="Timber.d(String)" toReformat="true" toShortenFQNames="true">
+    <variable name="message" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="te" value="timber.log.Timber.e($exception$)" description="Timber.e(Exception)" toReformat="true" toShortenFQNames="true">
+    <variable name="exception" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
