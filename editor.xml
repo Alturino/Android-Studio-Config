@@ -20,7 +20,7 @@
     <option name="enabled" value="false" />
   </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
+    <option name="USE_SOFT_WRAPS" value="" />
     <option name="ENABLE_RENDERED_DOC" value="true" />
     <option name="IS_ANIMATED_SCROLLING" value="false" />
   </component>
@@ -52,9 +52,5 @@
         </Settings>
       </JAVA.annotation.hints>
     </settingsMapElement>
-  </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
   </component>
 </application>
