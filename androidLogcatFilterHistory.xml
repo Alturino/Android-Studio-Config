@@ -5,11 +5,10 @@
         <option value="package:mine  -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine" />
         <option value="package:mine " />
+        <option value="package:mine" />
         <option value="package:mine tag:loginfragment$onviewcreated tag:authrepositoryimpl tag:loginviewmodel" />
         <option value="package:mine tag:loginfragment$onviewcreated tag:authrepositoryimpl   " />
         <option value="package:mine  -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt -tag:autofillmanager -tag:system.err -tag:nativeloader -tag:graphicsenvironment  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha -tag:openglrenderer -tag:egl_emulation -tag:okhttp.OkHttpClient tag:loginfragment$onviewcreated tag:authrepositoryimpl   " />
