@@ -5,9 +5,22 @@
         <option value="package:mine  -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine  -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha " />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
+        <option value="package:mine " />
+        <option value="package:mine tag:loginfragment$onviewcreated tag:authrepositoryimpl tag:loginviewmodel" />
+        <option value="package:mine tag:loginfragment$onviewcreated tag:authrepositoryimpl   " />
+        <option value="package:mine  -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt -tag:autofillmanager -tag:system.err -tag:nativeloader -tag:graphicsenvironment  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha -tag:openglrenderer -tag:egl_emulation -tag:okhttp.OkHttpClient tag:loginfragment$onviewcreated tag:authrepositoryimpl   " />
+        <option value="package:mine  -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt -tag:autofillmanager -tag:system.err   -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha -tag:openglrenderer -tag:egl_emulation -tag:okhttp.OkHttpClient   " />
+        <option value="package:mine  -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha -tag:openglrenderer -tag:egl_emulation tag:loginfragment$onviewcreated  " />
+        <option value="package:mine  -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha -tag:openglrenderer -tag:egl_emulation " />
+        <option value="package:com.onirtula.storyapp " />
+        <option value="package:com.onirtula.storyapp tag:loginfragment$onviewcreated " />
+        <option value="package:com.onirtula.storyapp tag:auth" />
+        <option value="package:com.onirtula.storyapp tag:login" />
+        <option value="package:com.onirtula.storyapp" />
         <option value="package:com.onirutla.flexchat" />
         <option value="package:com.example.learn_custom_view" />
         <option value="package:mine  -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha tag:FirebaseUserRepository$currentUser " />
@@ -15,19 +28,6 @@
         <option value="package:mine  -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha tag:registerscreenviewmodel " />
         <option value="package:mine  -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha tag:ma " />
         <option value="package:com.onirutla.flex_chat" />
-        <option value="package:com.onirutla.musicwalker" />
-        <option value="package:com.example.music_walker_flutter   -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha " />
-        <option value="package:com.example.music_walker_flutter " />
-        <option value="package:com.onirutla.musicwalker " />
-        <option value="package:com.onirutla.musicwalker  -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha  " />
-        <option value="package:com.onirutla.musicwalker   -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha  " />
-        <option value="package:com.onirutla.musicwalker   -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha tag:MusicWalkerNavigationKt  " />
-        <option value="package:com.onirutla.musicwalker   -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha " />
-        <option value="package:mine  -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow " />
-        <option value="package:mine  -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL -tag:libperfctl -tag:FramePolicy " />
-        <option value="package:com.onirutla.musicwalker -tag:gralloc4 -tag:fileutils -tag:libmeow -tag:libPerfCtl -tag:libmigl " />
-        <option value="package:com.onirutla.musicwalker -tag:gralloc4 -tag:fileutils -tag:libmeow -tag:framepolicy -tag:libperfctl" />
-        <option value="package:com.onirutla.musicwalker -tag:gralloc4 -tag:fileutils -tag:libmeow -tag:framepolicy -tag:libperfctl tag:service" />
       </list>
     </option>
   </component>
