@@ -2,10 +2,11 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
+        <option value="package:mine -tag:EGL_emulation -package:mine  -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt -tag:autofillmanager -tag:system.err -tag:nativeloader -tag:graphicsenvironment  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha -tag:openglrenderer -tag:egl_emulation -tag:libEGL    " />
         <option value="package:mine  -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine -tag:EGL_emulation " />
+    <option name="mostRecentlyUsed" value="package:mine -tag:EGL_emulation -package:mine  -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt -tag:autofillmanager -tag:system.err -tag:nativeloader -tag:graphicsenvironment  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha -tag:openglrenderer -tag:egl_emulation -tag:libEGL    " />
     <option name="nonFavorites">
       <list>
         <option value="package:mine -tag:EGL_emulation " />
