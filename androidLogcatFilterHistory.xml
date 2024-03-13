@@ -6,12 +6,14 @@
         <option value="package:mine  -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine -tag:EGL_emulation -package:mine  -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt -tag:autofillmanager -tag:system.err -tag:nativeloader -tag:graphicsenvironment  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha -tag:openglrenderer -tag:egl_emulation -tag:libEGL    " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine tag:" />
+        <option value="package:mine tag:storyrepositoryimpl$getstorieswithoutlocation " />
+        <option value="package:mine recyclerview    " />
         <option value="package:mine -tag:EGL_emulation " />
         <option value="package:mine -tag:E" />
-        <option value="package:mine " />
         <option value="package:mine tag:authactivity$oncreate " />
         <option value="package:mine" />
         <option value="package:mine tag:loginfragment$onviewcreated tag:authrepositoryimpl tag:loginviewmodel" />
@@ -26,9 +28,6 @@
         <option value="package:com.onirtula.storyapp tag:login" />
         <option value="package:com.onirtula.storyapp" />
         <option value="package:com.onirutla.flexchat" />
-        <option value="package:com.example.learn_custom_view" />
-        <option value="package:mine  -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha tag:FirebaseUserRepository$currentUser " />
-        <option value="package:com.google.firebase.example.fireeats" />
       </list>
     </option>
   </component>
