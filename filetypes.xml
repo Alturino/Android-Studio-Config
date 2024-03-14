@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="profileInstalled" type="AUTO_DETECTED" />
       <mapping pattern="Story App" type="AUTO_DETECTED" />
       <mapping pattern="Story App-shm" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
