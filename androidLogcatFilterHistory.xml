@@ -10,8 +10,10 @@
     <option name="nonFavorites">
       <list>
         <option value="package:com.onirutla.storyapp " />
-        <option value="package:com.onirutla.storyapp tag:" />
         <option value="package:com.onirutla.storyapp" />
+        <option value="package:com.onirutla.storyapp tag" />
+        <option value="package:com.onirutla.storyapp tag:connectivitymanagerutilkt$isonline " />
+        <option value="package:com.onirutla.storyapp tag:" />
         <option value="package:mine " />
         <option value="package:mine tag:" />
         <option value="package:mine tag:storyrepositoryimpl$getstorieswithoutlocation " />
@@ -27,8 +29,6 @@
         <option value="package:mine  -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha -tag:openglrenderer -tag:egl_emulation tag:loginfragment$onviewcreated  " />
         <option value="package:mine  -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha -tag:openglrenderer -tag:egl_emulation " />
         <option value="package:com.onirtula.storyapp " />
-        <option value="package:com.onirtula.storyapp tag:loginfragment$onviewcreated " />
-        <option value="package:com.onirtula.storyapp tag:auth" />
       </list>
     </option>
   </component>
