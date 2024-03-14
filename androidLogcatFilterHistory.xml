@@ -8,6 +8,7 @@
     </option>
     <option name="nonFavorites">
       <list>
+        <option value="package:com.onirutla.storyapp" />
         <option value="package:mine " />
         <option value="package:mine tag:" />
         <option value="package:mine tag:storyrepositoryimpl$getstorieswithoutlocation " />
@@ -27,7 +28,6 @@
         <option value="package:com.onirtula.storyapp tag:auth" />
         <option value="package:com.onirtula.storyapp tag:login" />
         <option value="package:com.onirtula.storyapp" />
-        <option value="package:com.onirutla.flexchat" />
       </list>
     </option>
   </component>
