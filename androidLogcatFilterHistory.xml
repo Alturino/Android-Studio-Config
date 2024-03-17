@@ -6,9 +6,10 @@
         <option value="package:mine  -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.onirutla.storyapp " />
+    <option name="mostRecentlyUsed" value="package:com.onirutla.storyapp level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.onirutla.storyapp level:error " />
         <option value="package:com.onirutla.storyapp " />
         <option value="package:com.onirutla.storyapp tag:storylist" />
         <option value="package:com.onirutla.storyapp tag:storylistviewmodel$stories " />
@@ -28,7 +29,6 @@
         <option value="package:mine tag:loginfragment$onviewcreated tag:authrepositoryimpl tag:loginviewmodel" />
         <option value="package:mine tag:loginfragment$onviewcreated tag:authrepositoryimpl   " />
         <option value="package:mine  -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt -tag:autofillmanager -tag:system.err -tag:nativeloader -tag:graphicsenvironment  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha -tag:openglrenderer -tag:egl_emulation -tag:okhttp.OkHttpClient tag:loginfragment$onviewcreated tag:authrepositoryimpl   " />
-        <option value="package:mine  -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt -tag:autofillmanager -tag:system.err   -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha -tag:openglrenderer -tag:egl_emulation -tag:okhttp.OkHttpClient   " />
       </list>
     </option>
   </component>
