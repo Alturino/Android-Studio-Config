@@ -1,0 +1,15 @@
+<application>
+  <component name="BitRates">
+    <option name="bitRateTrackers">
+      <map>
+        <entry key="Xiaomi|21081111RG|arm64-v8a|33">
+          <value>
+            <BitRateTracker>
+              <option name="bitRate" value="5000000" />
+            </BitRateTracker>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

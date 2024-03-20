@@ -6,12 +6,16 @@
         <option value="package:mine  -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.onirutla.storyapp " />
+    <option name="mostRecentlyUsed" value="package:mine -tag:EGL_emulation -package:mine  -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt -tag:autofillmanager -tag:system.err -tag:nativeloader -tag:graphicsenvironment  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha -tag:openglrenderer -tag:egl_emulation -tag:libEGL     " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag:EGL_emulation -package:mine  -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt -tag:autofillmanager -tag:system.err -tag:nativeloader -tag:graphicsenvironment  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha -tag:openglrenderer -tag:egl_emulation -tag:libEGL     " />
+        <option value="package:com.ahmadfma.intermediate_submission1" />
+        <option value="package:mine -tag:EGL_emulation -package:mine  -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt -tag:autofillmanager -tag:system.err -tag:nativeloader -tag:graphicsenvironment  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha -tag:openglrenderer -tag:egl_emulation -tag:libEGL level:error     " />
+        <option value="a" />
+        <option value="package:com.onirutla.storyapp" />
         <option value="package:com.onirutla.storyapp " />
         <option value="package:com.onirutla.storyapp tag:addstoryfragment$onviewcreated$state " />
-        <option value="package:com.onirutla.storyapp" />
         <option value="package:com.onirutla.storyapp tag:storyactivity " />
         <option value="package:com.onirutla.storyapp level:error " />
         <option value="package:com.onirutla.storyapp tag:storylist" />
@@ -25,10 +29,6 @@
         <option value="package:mine tag:storyrepositoryimpl$getstorieswithoutlocation " />
         <option value="package:mine recyclerview    " />
         <option value="package:mine -tag:EGL_emulation " />
-        <option value="package:mine -tag:E" />
-        <option value="package:mine tag:authactivity$oncreate " />
-        <option value="package:mine" />
-        <option value="package:mine tag:loginfragment$onviewcreated tag:authrepositoryimpl tag:loginviewmodel" />
       </list>
     </option>
   </component>
