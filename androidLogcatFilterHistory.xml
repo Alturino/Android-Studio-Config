@@ -6,11 +6,11 @@
         <option value="package:mine  -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:splashscreenactivity$oncreate " />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag:splashscreenactivity$oncreate " />
         <option value="package:mine" />
+        <option value="package:mine tag:splashscreenactivity$oncreate " />
         <option value="package:mine   " />
         <option value="package:mine tag:  " />
         <option value="package:mine tag:UiDevice " />
