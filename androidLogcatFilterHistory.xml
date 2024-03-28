@@ -6,9 +6,12 @@
         <option value="package:mine  -tag:gralloc4  -tag:FileUtils -tag:ActivityManagerWrapper -tag:qt  -tag:fbi -tag:libMiGL -tag:framepolicy -tag:libPerfCtl -tag:libmeow -tag:libjpeg-alpha " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:com.onirutla.flexchat -tag:gralloc4 -tag:fileutils -tag:qt -tag:fbi -tag:libmigl " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.onirutla.flexchat -tag:gralloc4 -tag:fileutils -tag:qt -tag:fbi -tag:libmigl " />
+        <option value="package:com.onirutla.flexchat level:error -tag:gralloc4 -tag:fileutils -tag:qt -tag:fbi -tag:libmigl " />
+        <option value="package:com.onirutla.flexchat level:error" />
         <option value="package:mine" />
         <option value="package:mine tag:splashscreenactivity$oncreate " />
         <option value="package:mine   " />
@@ -26,9 +29,6 @@
         <option value="package:com.onirutla.storyapp tag:storyactivity " />
         <option value="package:com.onirutla.storyapp level:error " />
         <option value="package:com.onirutla.storyapp tag:storylist" />
-        <option value="package:com.onirutla.storyapp tag:storylistviewmodel$stories " />
-        <option value="package:com.onirutla.storyapp tag:" />
-        <option value="package:com.onirutla.storyapp tag:storylistfragment$onviewcreated " />
       </list>
     </option>
   </component>
